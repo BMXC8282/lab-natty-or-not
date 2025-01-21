@@ -114,6 +114,6 @@ Os geradores de texto por IA podem ser usados para gerar textos variados, como a
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+[IA que resume vídeos: 5 ferramentas gratuitas para usar agora] (https://www.techtudo.com.br/listas/2025/01/ia-que-resume-videos-5-ferramentas-gratuitas-para-usar-agora-edsoftwares.ghtml)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+![O primeiro caderno do mundo integrado a um tutor de inteligência artificial] (https://super.abril.com.br/tecnologia/o-primeiro-caderno-do-mundo-integrado-a-um-tutor-de-inteligencia-artificial)

@@ -32,7 +32,7 @@ CHATGPT
 
 
 ## 🧐 Processo de Criação
-Demonstrar como os geradores de texto por IA Copilot, Gemini e ChatGPT se comportam ao utilizar um mesmo conjunto de algoritmos de processamento de linguagem natural para criar conteúdo escrito. Os geradores de texto por IA podem ser usados para gerar textos variados, como artigos, resumos, descrições de produtos e muito mais, de forma rápida e automatizada. Essas ferramentas ajudam a economizar tempo e esforço na criação de conteúdo, mantendo a qualidade e a consistência.
+Demonstrar como os geradores de texto por IA Copilot, Gemini e ChatGPT se comportam ao utilizar um mesmo conjunto de algoritmos de processamento de linguagem natural para criar conteúdo escrito.
 
 ## 🚀 Resultados
 Utilizamos um texto padrão para o Copilot, Gemini e ChatGPT e, abaixo, os resultados gerados por cada uma destas ferramentas.

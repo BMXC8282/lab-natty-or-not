@@ -114,6 +114,6 @@ Os geradores de texto por IA podem ser usados para gerar textos variados, como a
 
 ## Links Interessantes
 
-[IA que resume vídeos: 5 ferramentas gratuitas para usar agora] (https://www.techtudo.com.br/listas/2025/01/ia-que-resume-videos-5-ferramentas-gratuitas-para-usar-agora-edsoftwares.ghtml)
+[IA que resume vídeos: 5 ferramentas gratuitas para usar agora](https://www.techtudo.com.br/listas/2025/01/ia-que-resume-videos-5-ferramentas-gratuitas-para-usar-agora-edsoftwares.ghtml)
 
-![O primeiro caderno do mundo integrado a um tutor de inteligência artificial] (https://super.abril.com.br/tecnologia/o-primeiro-caderno-do-mundo-integrado-a-um-tutor-de-inteligencia-artificial)
+[O primeiro caderno do mundo integrado a um tutor de inteligência artificial](https://super.abril.com.br/tecnologia/o-primeiro-caderno-do-mundo-integrado-a-um-tutor-de-inteligencia-artificial)

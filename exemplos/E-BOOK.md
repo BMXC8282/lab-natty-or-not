@@ -12,7 +12,7 @@ Este e-book de 10 páginas explora o uso revolucionário das IAs Generativas par
 Utilizei o "ChatGPT" para criar o texto e conteúdo do ebook de forma simples e didática contendo itens e subitens sobre os geradores de texto copilot, gemini e chatgpt e pontos em comum e diferenças entre estas ferramentas  Por outro lado, o "Freepik" foi usado para gerar imagens exclusivas para o e-book. Para concluir, a montagem final foi feita no Power Point, por ser uma ferramenta para edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo didático para os iniciantes no mundo da IA, demonstrando como as IAs Genarativas podem ser uma ferramenta aliada à educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo didático para os iniciantes no mundo da IA, demonstrando como as IAs Generativas podem ser uma ferramenta aliada à educação e na disseminação do conhecimento.
 
 [EBOOK]()
 

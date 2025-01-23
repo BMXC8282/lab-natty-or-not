@@ -1,20 +1,20 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Transforme Suas Ideias em Palavras com a IA: É Mais Fácil do que Você Imagina 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 10 páginas explora o uso revolucionário das IAs Generativas para transformar ideias em palavras de maneira rápida e eficiente.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[ChatGPT](https://chatgpt.com/)** para roteirização;
+- IA Generativa **[Freepik](https://www.freepik.com/)** para criar a arte visual do e-book;
+- Ferramenta **Power Point** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para criar o texto e conteúdo do ebook de forma simples e didática contendo itens e subitens sobre os geradores de texto copilot, gemini e chatgpt e pontos em comum e diferenças entre estas ferramentas  Por outro lado, o "Freepik" foi usado para gerar imagens exclusivas para o e-book. Para concluir, a montagem final foi feita no Power Point, por ser uma ferramenta para edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo didático para os iniciantes no mundo da IA, demonstrando como as IAs Genarativas podem ser uma ferramenta aliada à educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[EBOOK]()
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Elaborar este e-book foi uma experiência esclarecedora sobre o imenso potencial criativo das IAs e suas diversas aplicações em diferentes contextos.

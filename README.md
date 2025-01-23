@@ -35,7 +35,7 @@ Utilizei o "ChatGPT" para criar o texto e conteúdo do ebook de forma simples e 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo didático para os iniciantes no mundo da IA, demonstrando como as IAs Generativas podem ser uma ferramenta aliada à educação e na disseminação do conhecimento.
 
-[EBOOK]()
+[EBOOK](https://github.com/BMXC8282/lab-natty-or-not/blob/main/exemplos/EBOOK%20-%20Transforme%20suas%20ideias%20com%20IA.pdf)
 
 ## 💭 Reflexão
 Elaborar este e-book foi uma experiência esclarecedora sobre o imenso potencial criativo das IAs e suas diversas aplicações em diferentes contextos.
